@@ -1,0 +1,17 @@
+
+.image{
+    width:200px;
+    height:250px;
+    margin-top: 10px;
+    border: 1px solid grey;
+}
+
+.border{
+    width: 250px;
+    margin: 20px;
+    border: 1px solid black;
+}
+.text{
+    text-align: center;
+}
+
